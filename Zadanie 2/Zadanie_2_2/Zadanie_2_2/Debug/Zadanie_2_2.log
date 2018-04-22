@@ -1,0 +1,6 @@
+﻿  Zadanie_2_2.cpp
+c:\users\mateusz\desktop\gk\zadanie_2_2\zadanie_2_2\zadanie_2_2.cpp(78): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\mateusz\desktop\gk\zadanie_2_2\zadanie_2_2\zadanie_2_2.cpp(79): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\mateusz\desktop\gk\zadanie_2_2\zadanie_2_2\zadanie_2_2.cpp(100): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\mateusz\desktop\gk\zadanie_2_2\zadanie_2_2\zadanie_2_2.cpp(101): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  Zadanie_2_2.vcxproj -> C:\Users\Mateusz\Desktop\GK\Zadanie_2_2\Debug\Zadanie_2_2.exe
