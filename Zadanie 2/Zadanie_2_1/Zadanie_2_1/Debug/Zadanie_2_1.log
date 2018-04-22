@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Zadanie_2_1.cpp
+c:\users\mateusz\desktop\gk\zadanie_2_1\zadanie_2_1\zadanie_2_1.cpp(34): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\mateusz\desktop\gk\zadanie_2_1\zadanie_2_1\zadanie_2_1.cpp(35): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  Zadanie_2_1.vcxproj -> C:\Users\Mateusz\Desktop\GK\Zadanie_2_1\Debug\Zadanie_2_1.exe
