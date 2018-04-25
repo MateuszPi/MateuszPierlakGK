@@ -1,0 +1,4 @@
+﻿  Zadanie_1.cpp
+c:\users\mateusz\desktop\gk\zadanie_1\zadanie_1\zadanie_1.cpp(43): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\mateusz\desktop\gk\zadanie_1\zadanie_1\zadanie_1.cpp(44): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+  Zadanie_1.vcxproj -> C:\Users\Mateusz\Desktop\GK\Zadanie_1\Debug\Zadanie_1.exe
