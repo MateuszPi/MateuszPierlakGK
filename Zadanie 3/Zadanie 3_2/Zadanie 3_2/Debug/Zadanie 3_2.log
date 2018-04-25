@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Zadanie 3_2.cpp
+c:\users\mateusz\desktop\gk\zadanie 3_2\zadanie 3_2\zadanie 3_2.cpp(470): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\mateusz\desktop\gk\zadanie 3_2\zadanie 3_2\zadanie 3_2.cpp(475): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\mateusz\desktop\gk\zadanie 3_2\zadanie 3_2\zadanie 3_2.cpp(527): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\mateusz\desktop\gk\zadanie 3_2\zadanie 3_2\zadanie 3_2.cpp(529): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\mateusz\desktop\gk\zadanie 3_2\zadanie 3_2\zadanie 3_2.cpp(531): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\mateusz\desktop\gk\zadanie 3_2\zadanie 3_2\zadanie 3_2.cpp(533): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  Zadanie 3_2.vcxproj -> C:\Users\Mateusz\Desktop\GK\Zadanie 3_2\Debug\Zadanie 3_2.exe
